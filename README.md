@@ -46,7 +46,7 @@ Punto de control de **C++** #07:
 
 ## :computer: Código
 
-- :blue_book: [C-_PDC_-06](https://github.com/D11110/C-_PDC_-06)
+- :blue_book: [C-_PDC_-07](https://github.com/D11110/C-_PDC_-07)
 
 ---
 #### Herramientas:
