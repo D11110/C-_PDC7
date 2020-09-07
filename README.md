@@ -24,14 +24,14 @@ Punto de control de **C++** #07:
 
 ## :black_circle: Pila.hpp
 
-![](images/pila.png)
+![](images/Pila.png)
 
 ---
 
 
 ## :triangular_ruler: MiClase.hpp
 
-![](images/miclase.png)
+![](images/Miclase.png)
 
 ---
 
